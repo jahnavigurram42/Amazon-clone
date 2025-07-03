@@ -2,8 +2,8 @@
 
 <br>
 This project is a static clone of Amazon's landing (home) page, created using only HTML and CSS. It replicates the look and structure of the Amazon website’s front page, including the header, navigation bar, product sections, and footer. This project is ideal for practicing frontend development and understanding layout design with CSS.
-
 <br>
+
 
 📌 Features
 
@@ -22,7 +22,6 @@ This project is a static clone of Amazon's landing (home) page, created using on
 💻 Technologies Used
 
 -> HTML5
-
 <br>
 -> CSS3
 
